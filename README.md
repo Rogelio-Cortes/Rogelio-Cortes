@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Rogelio, a Computer Science student at the University of Illinois at Chicago
+
+- 🔭 I’m currently working on a fork of [Hekate](https://github.com/CTCaer/hekate)
+- 🌱 I’m currently learning how to create Web Apps using Next.JS
+- 📫 How to reach me: rogelio.xcortes@gmail.com
 
 <!--
 **Rogelio-Cortes/Rogelio-Cortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
