@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Rogelio, a Computer Science student at the University of Illinois at Chicago
 
+## Languages and Tools:
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 - 🔭 I’m currently working on a fork of [Hekate](https://github.com/CTCaer/hekate)
 - 🌱 I’m currently learning how to create Web Apps using Next.JS
 - 📫 How to reach me: rogelio.xcortes@gmail.com
